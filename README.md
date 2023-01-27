@@ -1,1 +1,1 @@
-# -tailwindcss-reactjs-project
+# tailwindcss-reactjs-project
